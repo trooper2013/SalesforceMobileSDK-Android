@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/forcedotcom/SalesforceMobileSDK-Android/tree/dev.svg?style=svg)](https://circleci.com/gh/forcedotcom/workflows/SalesforceMobileSDK-Android/tree/dev)
-[![codecov](https://codecov.io/gh/forcedotcom/SalesforceMobileSDK-Android/branch/dev/graph/badge.svg)](https://codecov.io/gh/forcedotcom/SalesforceMobileSDK-Android/branch/dev)
+[![codecov](https://codecov.io/gh/forcedotcom/SalesforceMobileSDK-Android/branch/dev/graph/badge.svg)](https://codecov.io/gh/forcedotcom/SalesforceMobileSDK-Android/branch/dev) [![Join the chat at https://gitter.im/SalesforceMobileSDK-Android/community](https://badges.gitter.im/SalesforceMobileSDK-Android/community.svg)](https://gitter.im/SalesforceMobileSDK-Android/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Salesforce.com Mobile SDK for Android
 
